@@ -1,0 +1,94 @@
+body
+{
+    background-color: whitesmoke;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar
+{
+    height: 12vh;
+    width: 100%;
+    display: flex;
+}
+.logo
+{
+    width: 20%;
+    height: 12vh;
+    
+}
+.navbar_header
+{
+    width: 80%;
+    height: 12vh;
+    
+}
+
+.list_header
+{
+    padding: 30px;
+    margin-left: 60%;
+    
+}
+.list_header a
+{
+    text-decoration: none;  
+    margin: 30px;  
+    color: black;
+}
+
+.box
+{
+    height: 100vh;
+    width: 50%;
+    background-color: gray ;
+}
+.signup_form_box
+{
+    height: auto;
+    width: 80%;
+    padding: 50px;
+    
+}
+
+.login_form_box
+{
+    height: auto;
+    width: 80%;
+    padding: 50px;
+}
+
+.profile_form_box
+{
+    height: auto;
+    width: 80%;
+    padding: 50px;
+}
+
+.profile_box
+{
+    
+    height: auto;
+    width: 80%;
+    padding: 50px;
+}
+.input-form
+{
+    width: 70%;
+    height: 30px;
+}
+
+.btn_signup
+{
+    width: 20%;
+    height: 30px;
+}
+
+.btn_edit
+{
+    color: white;
+}
